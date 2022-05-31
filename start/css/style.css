@@ -1,0 +1,30 @@
+body {
+    background-color: #251D3A;
+    color: #EFEFEF;
+    font-family: Poppins, sans-serif;
+}
+
+hr {
+    box-align: center;
+    border-style: dotted none none;
+    border-width: .4em;
+    border-color: #febc82;
+    width: 3%;
+}
+
+table td {
+    padding: .5em;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+h1 {
+    color: #FF7700;
+}
+
+h3 {
+    color: #febc82;
+}

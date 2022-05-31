@@ -1,0 +1,40 @@
+/**TAG SELECTORS**/
+
+body {
+    background-color: #FFE3A9;
+}
+
+h1 {
+     color: #FF5D5D;
+     font-size: 3em;
+}
+
+img {
+    background-color: #FF5D5D;
+}
+
+img:hover {
+    background-color: #FFC3C3;
+}
+
+/**CLASS SELECTORS**/
+
+.bacon {
+    background-color: #FF5D5D;
+    width: 8em;
+}
+
+.croissant  {
+    background-color: #73777B;
+    width: 8em;
+}
+
+.icon    {
+    border-radius: 100%;
+}
+
+/**ID SELECTORS**/
+
+#love {
+    text-decoration: underline;
+}
